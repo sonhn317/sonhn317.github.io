@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Optimum Tuning"
+description: "ssssAdvance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
 meta_title: Jekyll Advance - Premium Jekyll Theme
 
@@ -38,7 +38,7 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Services"
+  heading: "aaaaOur Services"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
